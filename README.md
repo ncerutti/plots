@@ -1,4 +1,4 @@
 # plots
 temporary dumping plots
 
-<a href="www.google.com">Link</a>
+<a href="simple_dashboard.html">Link</a>
